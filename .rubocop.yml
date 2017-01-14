@@ -11,5 +11,5 @@ AllCops:
     - 'spec/**/*'
     - 'vendor/**/*'
 
-  RunRailsCops: true
-
+Rails:
+  Enabled: true
